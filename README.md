@@ -1,6 +1,6 @@
 # Práctica de Git y GitHub
 
-En este espacio se guardaran todos los trabajos relaizados.
+En este espacio se guardaran todos los trabajos realizados.
 
 ## Contenido del Repositorio
 
